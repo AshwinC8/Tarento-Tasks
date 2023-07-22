@@ -1,0 +1,11 @@
+Few useCases of Database Joins are :
+
+1. Healthcare Information Systems:
+Real-time healthcare applications often deal with diverse sources of patient data, such as electronic health records, medical imaging, and laboratory results.
+By using joins, the application can correlate information from multiple data tables to provide a comprehensive patient profile for medical professionals.
+This unified view can assist doctors in making timely and accurate decisions, especially in critical situations.
+
+2. Online Gaming Platforms:
+Real-time online gaming applications often require integrating data from different gaming servers, user profiles, and in-game purchases. 
+Joins help combine these datasets to provide a seamless gaming experience. 
+For instance, when a player logs in, the application can retrieve their gaming history, friends' activity, and in-game items through joins to present a personalized and engaging interface.
