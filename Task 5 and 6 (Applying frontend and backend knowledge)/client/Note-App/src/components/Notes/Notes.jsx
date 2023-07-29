@@ -23,7 +23,8 @@ function Notes(){
                 minWidth: "200px",
                 height: "auto",
                 gap: "30px",
-                marginTop: "2em"
+                marginTop: "2em",
+                alignItems: "center",
             }}
         >
             {
